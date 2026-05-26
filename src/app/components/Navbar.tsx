@@ -34,7 +34,7 @@ export default function Navbar() {
               </h1>
 
               <p className="text-gray-500 text-xs lg:text-sm mt-1">
-                Repairing with Trust Since 20+ Years
+                Repairing with Trust Since 30+ Years
               </p>
             </div>
           </div>
